@@ -111,3 +111,7 @@ MAL = {
   color = rgb { 107 31 110 }
   color_ui = rgb { 150 18 18 }
 }
+CAS = {
+  color = rgb { 18 27 192 }
+  color_ui = rgb { 150 18 18 }
+}
