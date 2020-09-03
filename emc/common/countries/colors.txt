@@ -113,5 +113,9 @@ MAL = {
 }
 CAS = {
   color = rgb { 18 27 192 }
-  color_ui = rgb { 150 18 18 }
+  color_ui = rgb { 18 27 192 }
+}
+HDA = {
+  color = rgb { 0 0 95 }
+  color_ui = rgb { 0 0 95 }
 }
