@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = NUL
+		owner = CAS
 		buildings = {
 			infrastructure = 5
 			 = 1
